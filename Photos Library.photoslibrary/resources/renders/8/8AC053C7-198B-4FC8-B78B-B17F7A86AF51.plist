@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustmentBaseVersion</key>
+	<integer>1</integer>
+	<key>adjustmentData</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKQHCA4PVSRudWxs0gkKCw1aTlMub2JqZWN0c1YkY2xhc3OhDIACgANPENticGxp
+	c3QwMNQBAgMEBQYTFFgkdmVyc2lvblgkb2JqZWN0c1kkYXJjaGl2ZXJUJHRvcBIAAYag
+	owcIDVUkbnVsbNIJCgsMWk5TLm9iamVjdHNWJGNsYXNzoIAC0g4PEBFaJGNsYXNzbmFt
+	ZVgkY2xhc3Nlc1dOU0FycmF5ohASWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RUW
+	VHJvb3SAAQgRGiMtMjc7QUZRWFlbYGt0fH+Imp2iAAAAAAAAAQEAAAAAAAAAFwAAAAAA
+	AAAAAAAAAAAAAKTSEBESE1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiEhRYTlNP
+	YmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRFxhdQUtBcmNoaXZlUm9vdIABAAgAEQAaACMA
+	LQAyADcAPABCAEcAUgBZAFsAXQBfAT0BQgFNAVYBXgFhAWoBfAF/AY0AAAAAAAACAQAA
+	AAAAAAAZAAAAAAAAAAAAAAAAAAABjw==
+	</data>
+	<key>adjustmentEditorBundleID</key>
+	<string>com.apple.mobileslideshow</string>
+	<key>adjustmentFormatIdentifier</key>
+	<string>com.apple.Markup</string>
+	<key>adjustmentFormatVersion</key>
+	<string>1.0</string>
+	<key>adjustmentTimestamp</key>
+	<date>2021-11-23T19:30:48Z</date>
+</dict>
+</plist>
