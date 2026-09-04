@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <form action="{{ url_for('analyze') }}" method="post" enctype="multipart/form-data">
+    <label class="dropzone" for="assessment_file">
+      <span class="dropzone-icon">📄</span>
+      <span class="dropzone-text">Clique para selecionar o PDF da avaliação</span>
+      <input id="assessment_file" name="assessment_file" type="file" accept="application/pdf" required>
+    </label>
+    <button type="submit" class="btn-primary">Analisar avaliação</button>
+  </form>
+</div>
+
+<div class="card info-card">
+  <h2>Como funciona</h2>
+  <ol>
+    <li>O texto da prova é extraído do PDF.</li>
+    <li>Uma IA identifica cada questão, a alternativa correta, a resolução e o objetivo pedagógico.</li>
+    <li>Um relatório em PDF com paleta suave é gerado para download.</li>
+  </ol>
+</div>
+{% endblock %}
